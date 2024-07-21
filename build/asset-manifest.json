@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/einaazod/static/css/main.9675e378.css",
+    "main.js": "/einaazod/static/js/main.3b732866.js",
+    "static/js/453.f080e4d0.chunk.js": "/einaazod/static/js/453.f080e4d0.chunk.js",
+    "static/media/certification.svg": "/einaazod/static/media/certification.b25965309cce0424d8d5.svg",
+    "static/media/stack.svg": "/einaazod/static/media/stack.4de4c35bd5e76b1e290c.svg",
+    "static/media/soft-skills.svg": "/einaazod/static/media/soft-skills.806a78e9fa3700ee84f3.svg",
+    "static/media/portfolio.svg": "/einaazod/static/media/portfolio.bd0cd7922c1980e9d664.svg",
+    "static/media/self.svg": "/einaazod/static/media/self.04b2ecb1d9e582def65b.svg",
+    "static/media/education.svg": "/einaazod/static/media/education.dec55a1cebef98273874.svg",
+    "index.html": "/einaazod/index.html",
+    "static/media/redirect.svg": "/einaazod/static/media/redirect.a505f01f6e1f65375025303bac233a05.svg",
+    "static/media/contact.svg": "/einaazod/static/media/contact.385a199f9eb5913a8378.svg",
+    "main.9675e378.css.map": "/einaazod/static/css/main.9675e378.css.map",
+    "main.3b732866.js.map": "/einaazod/static/js/main.3b732866.js.map",
+    "453.f080e4d0.chunk.js.map": "/einaazod/static/js/453.f080e4d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9675e378.css",
+    "static/js/main.3b732866.js"
+  ]
+}
