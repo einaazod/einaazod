@@ -1,0 +1,23 @@
+.tile {
+    background-color: #171810;
+    padding: 20px;
+    border: 1px solid #171810;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.tile-title {
+    font-size: 26px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.blue-title {
+    color: #2c66ff;
+} 
+
+.purple-title {
+    color: #9e5aff;
+} 
